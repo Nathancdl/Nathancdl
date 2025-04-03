@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Caudeli</h1>
-<h3 align="center">Web Project Manager @ Solead Agency | React & Vue.js Dev ⚙️ Passionate about digital project management</h3>
+<h3 align="center"> ⚙️ Web Project Manager @ Solead Agency | React & Vue.js Dev ⚙️ </h3>
+<h3 align="center"> Passionate about digital project management </h3>
+
 
 - 🔭 I’m currently working at **Solead Agency** as a **Web Project Manager**
 
