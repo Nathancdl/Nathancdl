@@ -1,24 +1,30 @@
-<h1 align="center">Hi 👋, I'm Xavier Chevalier</h1>
-<h3 align="center">A passionate freelance Lead Web Dev ✨ Software Craftsman from France</h3>
+<h1 align="center">Hi 👋, I'm Nathan Caudeli</h1>
+<h3 align="center">Web Project Manager @ Solead Agency | React & Vue.js Dev ⚙️ Passionate about digital project management</h3>
 
-- 🔭 I’m currently working at Jeeves Studio
+- 🔭 I’m currently working at **Solead Agency** as a **Web Project Manager**
 
-- 💬 Ask me about **TDD, true OOP, Clean Code, Architecture Hexagonale, Microservices, Ports & Adapters, Modulaire, DDD, principes SOLID, Atomic Design...**
+- 💻 I'm a **React & Vue.js developer**, focused on building efficient, modular and scalable frontend apps
 
-- 📄 Know about my experiences &nbsp;[<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chevalier-xavier" height="14" width="14" />&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/chevalier-xavier/)
+- 📋 Passionate about **web project management**, team coordination & delivering successful digital products
 
-<!-- <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierchevalier&show_icons=true&locale=en" alt="xavierchevalier" />
+- 💬 Ask me about **agile workflows, frontend architecture, component libraries, client needs analysis, planning tools, and project delivery**
+
+- 📄 Know about my experiences &nbsp;[<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-caudeli" height="14" width="14" />&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/nathan-caudeli/)
+
+<!-- Optional GitHub stats (if you want to re-activate)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathancaudeli&show_icons=true&locale=en" alt="nathancaudeli" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchevalier&show_icons=true&locale=en&layout=compact" alt="xavierchevalier" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathancaudeli&show_icons=true&locale=en&layout=compact" alt="nathancaudeli" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierchevalier&label=Profile%20views&color=0e75b6&style=flat" alt="xavierchevalier" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancaudeli&label=Profile%20views&color=0e75b6&style=flat" alt="nathancaudeli" /> </p>
+-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XavierChevalier/XavierChevalier/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XavierChevalier/XavierChevalier/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/XavierChevalier/XavierChevalier/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathancaudeli/nathancaudeli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathancaudeli/nathancaudeli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nathancaudeli/nathancaudeli/output/github-snake.svg" />
 </picture>
