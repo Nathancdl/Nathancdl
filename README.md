@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **agile workflows, frontend architecture, component libraries, client needs analysis, planning tools, and project delivery**
 
-- 📄 Know about my experiences &nbsp;[<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-caudeli" height="14" width="14" />&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/nathan-caudeli/)
+- 📄 Know about my experiences &nbsp;[<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-caudeli" height="14" width="14" />&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/nathancdl/)
 
 <!-- Optional GitHub stats (if you want to re-activate)
 <p>
@@ -24,7 +24,7 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathancaudeli/nathancaudeli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathancaudeli/nathancaudeli/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nathancaudeli/nathancaudeli/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathancdl/Nathancdl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathancdl/Nathancdl/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nathancdl/Nathancdl/output/github-snake.svg" />
 </picture>
